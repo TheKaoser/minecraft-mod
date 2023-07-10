@@ -4,10 +4,10 @@
   <booleanAttribute key="org.eclipse.debug.core.launchGroup.0.adoptIfRunning" value="false"/>
   <booleanAttribute key="org.eclipse.debug.core.launchGroup.0.enabled" value="true"/>
   <stringAttribute key="org.eclipse.debug.core.launchGroup.0.mode" value="run"/>
-  <stringAttribute key="org.eclipse.debug.core.launchGroup.0.name" value="ModMinecraft - prepareRunData"/>
+  <stringAttribute key="org.eclipse.debug.core.launchGroup.0.name" value="forge-1.20.1-47.0.34-mdk - prepareRunData"/>
   <stringAttribute key="org.eclipse.debug.core.launchGroup.1.action" value="NONE"/>
   <booleanAttribute key="org.eclipse.debug.core.launchGroup.1.adoptIfRunning" value="false"/>
   <booleanAttribute key="org.eclipse.debug.core.launchGroup.1.enabled" value="true"/>
   <stringAttribute key="org.eclipse.debug.core.launchGroup.1.mode" value="inherit"/>
-  <stringAttribute key="org.eclipse.debug.core.launchGroup.1.name" value="ModMinecraft - runDataSlim"/>
+  <stringAttribute key="org.eclipse.debug.core.launchGroup.1.name" value="forge-1.20.1-47.0.34-mdk - runDataSlim"/>
 </launchConfiguration>
