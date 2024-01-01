@@ -1,0 +1,18 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "examplemod:example_block"
+          }
+        ],
+        "functions": [
+          {
+            "function": "minecraft:explosion_decay"
+          }
+        ]
+      }
+    ]
+}

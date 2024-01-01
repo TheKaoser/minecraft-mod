@@ -1,13 +1,12 @@
 {
-    "feature": "examplemod:overworld_example_block",
-    "placement": [
-      {
-        "type": "minecraft:count",
-        "count": 200
-      },
-      {
-        "type": "minecraft:in_square"
-      }
-    ]
-  }
-  
+  "feature": "examplemod:overworld_example_block",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 200
+    },
+    {
+      "type": "minecraft:in_square"
+    }
+  ]
+}
